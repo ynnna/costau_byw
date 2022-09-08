@@ -1,0 +1,5 @@
+setup.py
+costau_byw.egg-info/PKG-INFO
+costau_byw.egg-info/SOURCES.txt
+costau_byw.egg-info/dependency_links.txt
+costau_byw.egg-info/top_level.txt
