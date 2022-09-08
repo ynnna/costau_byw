@@ -29,7 +29,7 @@ The package containing the function used to the explorations.
 
 **data**
 
-The data used and produced in this project seprataed by type (csv and excel).
+The data used and produced in this project separated by type (csv and excel).
 
 **notebooks**
 
