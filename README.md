@@ -11,8 +11,9 @@ Then create and activate a new environment. For example, to create an enviorenme
     source env_cost/bin/activate
 
 After activating the enviornment install all the packages in the requirement text file.
+    
     pip install -r requirements.txt
-To be able to reproduce the notebooks, the clwstwr package needs to be installed locally.
+To be able to reproduce the notebooks, the costau_byw package needs to be installed locally, using this command:
 
     pip install -e costau_byw
 
