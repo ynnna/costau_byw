@@ -16,17 +16,21 @@ To be able to reproduce the notebooks, the clwstwr package needs to be installed
 
     pip install -e costau_byw
 
+
 There is also the report saves as an html file (report.html) which does not require any instalation. 
+
 ---
+
 ## Repo structure
-### **costau_byw**
+
+ **costau_byw**
 
 The package containing the function used to the explorations.  
----
+
 ### **data**
 
 The data used and produced in this project seprataed by type (csv and excel).
----
+
 ### **notebooks**
 
 - data_processing: Notebook processing and merging different datasets.
